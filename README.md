@@ -23,7 +23,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
         <div class="container">
             <div>
                 <div>
-                    <img id="node" src="assets/img/node.icon.png" alt="">
+                    <img  width: 70px; height: 40px; id="node" src="assets/img/node.icon.png" alt="">
                 </div>
                 <div>
                     <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
