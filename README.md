@@ -19,7 +19,12 @@ My goal is to become a highly skilled backend developer and contribute to challe
   </p>
 </section>
 <h1  align="center">Principais tecnologias</h1>
-<section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
+<p float="left">
+  <img id="node" src="assets/img/node.icon.png" alt="">
+  <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
+  <img src="assets/img/mongo-icon.png" alt="">
+</p>
+<!-- <section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
         <div class="container">
             <div>
                 <div>
@@ -36,7 +41,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
                 </div>
             </div>
         </div>
-</section>
+</section> -->
 
 <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
