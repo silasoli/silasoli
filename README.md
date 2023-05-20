@@ -50,16 +50,10 @@ My goal is to become a highly skilled backend developer and contribute to challe
                     <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
                 </div>
                 <div>
-                    <img src="assets/img/lavarel.png" alt="">
-                </div>
-                <div>
                     <img src="assets/img/mongo-icon.png" alt="">
                 </div>
                 <div>
                     <img id="post" src="assets/img/postgree.png" alt="">
-                </div>
-                <div>
-                    <img id="react" src="assets/img/react-icon.png" alt="">
                 </div>
             </div>
         </div>
