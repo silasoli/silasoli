@@ -20,7 +20,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
 </section>
 <h1  align="center">Principais tecnologias</h1>
 <p float="left">
-  <img src="assets/img/node.icon.png" alt="">
+  <img src="assets/img/node2.icon.png" alt="">
   <img src="assets/img/nestjs-ar21.svg" alt="">
   <img src="assets/img/mongo-icon.png" alt="">
   <img src="assets/img/postgree.png" alt="">
