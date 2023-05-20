@@ -1,0 +1,43 @@
+.carousel {
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s;
+}
+
+.slide {
+  flex: 0 0 300px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+@keyframes slideAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  33.33% {
+    transform: translateX(-100%);
+  }
+  66.66% {
+    transform: translateX(-200%);
+  }
+  100% {
+    transform: translateX(-200%);
+  }
+}
+
+.carousel:hover .slides {
+  animation: slideAnimation 6s infinite;
+  animation-timing-function: steps(3);
+}
+
+.carousel:hover .slides:hover {
+  animation-play-state: paused;
+}
