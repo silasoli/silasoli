@@ -20,8 +20,8 @@ My goal is to become a highly skilled backend developer and contribute to challe
 </section>
 <h1  align="center">Principais tecnologias</h1>
 <p float="left">
-  <img id="node" src="assets/img/node.icon.png" alt="">
-  <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
+  <img  width: 70px; height: 40px; id="node" src="assets/img/node.icon.png" alt="">
+  <img  width: 100px; height: 75px; id="nest" src="assets/img/nestjs-ar21.svg" alt="">
   <img src="assets/img/mongo-icon.png" alt="">
 </p>
 <!-- <section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
