@@ -8,14 +8,14 @@
   <img src="assets/img/Irelia_crop.jpg" alt="Imagem 1">
 </section>
 <section id="aboutme">
-  <p align="center">
-    Olá! Meu nome é Silas, tenho 22 anos e sou apaixonado por tecnologia desde sempre. Trabalho com T.I desde 2016 e desde 2019 tenho me dedicado ao desenvolvimento de software.
+  <p align="justify">
+   Hello! My name is Silas, I'm 22 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
-Em 2019, iniciei meus estudos de análise e desenvolvimento de sistemas no SENAI-BA e desde então venho aprimorando minhas habilidades técnicas. Considero como minhas soft skills a resiliência para correção de bugs, flexibilidade, trabalho em equipe, organização e gestão do tempo, capacidade de trabalhar sob pressão e liderança.
+In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
-Atualmente, estou no meu segundo trabalho, também focado em backend, devops e liderança de desenvolvimento utilizando ferramentas como Node.js, Rethink, TypeORM, Linux e outras tecnologias. Essa experiência me permitiu ampliar ainda mais meu conhecimento técnico e habilidades de liderança.
+Currently, I'm on my second job, also focused on backend, DevOps, and development leadership, using tools like Node.js, Rethink, TypeORM, Linux, and other technologies. This experience has allowed me to further expand my technical knowledge and leadership skills.
 
-Meu objetivo é me tornar um desenvolvedor back-end altamente qualificado e contribuir para projetos desafiadores e inovadores. Se você está procurando um profissional de tecnologia com paixão pelo aprendizado contínuo e dedicação ao trabalho em equipe, eu seria uma excelente escolha. Vamos conversar?
+My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
   </p>
 </section>
 <p align="center">
