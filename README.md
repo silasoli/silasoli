@@ -1,7 +1,31 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <link rel="stylesheet" href="assets/styles/style.css">          
+  <link rel="stylesheet" href="assets/styles/style.css">       
+  <style>
+    .stack-box {
+  display: flex;
+  justify-content: center;
+}
+
+.stack-box div {
+  display: flex;
+  align-items: center;
+}
+
+.stack-box img {
+  margin: 0 10px; /* Adjust the margin as needed */
+}
+
+#node {
+  width: 70px;
+  height: 40px;
+}
+#nest {
+  width: 100px;
+  height: 75px;
+}
+  </style>   
 </head>
 <body>
 <section id="banner">
