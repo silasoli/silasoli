@@ -40,7 +40,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
   </p>
 </section>
 <h1  align="center">Principais tecnologias</h1>
-<section id="stack-icons" class="stack-box">
+<section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
         <div class="container">
             <div>
                 <div>
