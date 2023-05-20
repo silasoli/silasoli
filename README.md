@@ -1,1 +1,3 @@
-![MarineGEO circle logo](/assets/img/underconstruction.png "MarineGEO logo")
+<p align="center">
+  <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
+</p>
