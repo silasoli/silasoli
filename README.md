@@ -12,37 +12,37 @@
   <p align="justify">
    Hello! My name is Silas, I'm 22 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
-  In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
+In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
-  My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
+My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
+
   </p>
 </section>
-
+<h1  align="center">Principais tecnologias</h1>
 <section id="stack-icons" class="stack-box">
         <div class="container">
-            <div class="sub-title pt-5">Principais tecnologias</div>
-            <div class="row align-items-center pb-5">
-                <div class="col-lg-2 col-sm-6">
-                    <img src="assets/img/lavarel.png" alt="">
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <img src="assets/img/mongo-icon.png" alt="">
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
-                </div>
-                <div class="col-lg-2 col-sm-6">
+            <div>
+                <div>
                     <img id="node" src="assets/img/node.icon.png" alt="">
                 </div>
-                <div class="col-lg-2 col-sm-6">
+                <div>
+                    <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
+                </div>
+                <div>
+                    <img src="assets/img/lavarel.png" alt="">
+                </div>
+                <div>
+                    <img src="assets/img/mongo-icon.png" alt="">
+                </div>
+                <div>
                     <img id="post" src="assets/img/postgree.png" alt="">
                 </div>
-                <div class="col-lg-1 col-sm-6">
+                <div>
                     <img id="react" src="assets/img/react-icon.png" alt="">
                 </div>
             </div>
         </div>
-    </section>
+</section>
 
 <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">

@@ -3,18 +3,23 @@
 }
 
 .stack-box {
-  background-color: #d9d9d957;
-  min-height: 180px;
+  display: flex;
+  justify-content: center;
 }
 
-.stack-box .row img {
-  width: 100%;
-  max-width: 100px;
-  height: auto;
-  margin: 0 10px;
-  transition: 0.5s;
+.stack-box div {
+  display: flex;
+  align-items: center;
 }
 
+.stack-box img {
+  margin: 0 10px; /* Adjust the margin as needed */
+}
+
+#node {
+  width: 70px;
+  height: 40px;
+}
 #nest {
   width: 100px;
   height: 75px;
