@@ -30,29 +30,32 @@
     <li id="carousel__slide2"
         tabindex="0"
         class="carousel__slide">
-      <div class="carousel__snapper"></div>
+      <div class="carousel__snapper">
       <a href="#carousel__slide1"
          class="carousel__prev">Go to previous slide</a>
       <a href="#carousel__slide3"
          class="carousel__next">Go to next slide</a>
+      </div>
     </li>
     <li id="carousel__slide3"
         tabindex="0"
         class="carousel__slide">
-      <div class="carousel__snapper"></div>
+      <div class="carousel__snapper">
       <a href="#carousel__slide2"
          class="carousel__prev">Go to previous slide</a>
       <a href="#carousel__slide4"
          class="carousel__next">Go to next slide</a>
+      </div>
     </li>
     <li id="carousel__slide4"
         tabindex="0"
         class="carousel__slide">
-      <div class="carousel__snapper"></div>
+      <div class="carousel__snapper">
       <a href="#carousel__slide3"
          class="carousel__prev">Go to previous slide</a>
       <a href="#carousel__slide1"
          class="carousel__next">Go to first slide</a>
+      </div>
     </li>
   </ol>
   <aside class="carousel__navigation">
