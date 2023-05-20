@@ -1,3 +1,21 @@
 #banner{
     height: 2vh;
 }
+
+.stack-box {
+  background-color: #d9d9d957;
+  min-height: 180px;
+}
+
+.stack-box .row img {
+  width: 100%;
+  max-width: 100px;
+  height: auto;
+  margin: 0 10px;
+  transition: 0.5s;
+}
+
+#nest {
+  width: 100px;
+  height: 75px;
+}
