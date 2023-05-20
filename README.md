@@ -7,7 +7,7 @@
 <section id="banner">
   <img src="assets/img/Irelia_crop.jpg" alt="Imagem 1">
 </section>
-<br>
+<hr>
 <section id="aboutme">
   <p align="justify">
    Hello! My name is Silas, I'm 22 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
