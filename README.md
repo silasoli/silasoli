@@ -2,12 +2,24 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <link rel="stylesheet" href="assets/styles/style.css">
+    <style>
+            h1{
+                color: #005e16;
+            }
+            p{
+                color: #e80000;
+                font-size: 18px;
+            }
+            #banner{
+              height: 2vh;
+            }
+        </style>
 </head>
 <body>
 
 
-<div id="banner" class="">
-  <img src="https://images.contentstack.io/v3/assets/blt93c07aad6c2c008a/bltb4b3e68ceb2f9c19/63ea718a19609a3af51ad76c/Irelia_37.jpg" alt="Imagem 1">
+<div id="banner">
+  <img src="assets/img/Irelia_crop.jpg" alt="Imagem 1">
 </div>
 
 <p align="center">
