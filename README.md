@@ -7,16 +7,13 @@
   display: flex;
   justify-content: center;
 }
-
 .stack-box div {
   display: flex;
   align-items: center;
 }
-
 .stack-box img {
   margin: 0 10px; /* Adjust the margin as needed */
 }
-
 #node {
   width: 70px;
   height: 40px;
