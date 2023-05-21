@@ -17,8 +17,7 @@
   My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?  
   </p>
 </section>
-<h1  align="center">Principais tecnologias</h1>
-
+<h1  align="center">Main technologies</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
