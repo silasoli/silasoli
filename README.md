@@ -50,7 +50,7 @@
 <h1  align="center">Contacts</h1>
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/silasoli/?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 </section>
 
 
