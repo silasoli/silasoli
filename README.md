@@ -19,7 +19,7 @@
 </section>
 
 <section id="technologies">
-<h1  align="center">Main technologies</h1>
+<h1  align="center">Main Technologies</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -35,6 +35,15 @@
 
 ![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true&card_width=800)
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_width=800)
+</section>
+
+<section id="statistics" align="center">
+<h1  align="center">Main Projects</h1>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-movie-api)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=buytickets-system)
 </section>
 
 
