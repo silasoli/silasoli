@@ -33,8 +33,8 @@
 <section id="statistics" align="center">
 <h1  align="center">Statistics</h1>
 
-![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true&card_width=450)
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_width=450)
+![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true&card_width=600)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_width=600)
 </section>
 
 
