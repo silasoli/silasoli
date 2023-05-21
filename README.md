@@ -45,16 +45,16 @@ My goal is to become a highly skilled backend developer and contribute to challe
 </section> -->
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="assets/img/node.icon.png" width="300" height="70"/>
+          <img src="assets/img/node.icon.png" width="100" height="70"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/nestjs-ar21.svg" width="300"/>
+          <img src="assets/img/nestjs-ar21.svg" width="100"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/mongo-icon.png" width="300"/>
+          <img src="assets/img/mongo-icon.png" width="100"/>
      </div>
        <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/postgres.png" width="300"/>
+          <img src="assets/img/postgres.png" width="100"/>
      </div>
 </div>
 
