@@ -44,6 +44,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-movie-api&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=buytickets-system&theme=dark)
+<h1  align="center"></h1>
 </section>
 
 <section id="contacts" align="center">
