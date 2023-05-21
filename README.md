@@ -51,7 +51,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/this.silasoli/)](https://www.instagram.com/this.silasoli/)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silasoli/)](https://www.linkedin.com/in/silasoli/)&nbsp;
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silasoliv39@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silasoliv39@gmail.com)](mailto:silasoliv39@gmail.com)&nbsp;
 ![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:silas_rodrigues2@hotmail.com)&nbsp;
 
 </section>
