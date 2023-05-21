@@ -43,7 +43,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
             </div>
         </div>
 </section> -->
-<div style="display:flex">
+<p float="left">
      <div style="flex:1;padding-right:10px;">
           <img src="assets/img/node.icon.png" width="100" height="70"/>
      </div>
@@ -56,7 +56,7 @@ My goal is to become a highly skilled backend developer and contribute to challe
        <div style="flex:1;padding-left:10px;">
           <img src="assets/img/postgres.png" width="100"/>
      </div>
-</div>
+</p>
 
 <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
