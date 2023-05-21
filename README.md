@@ -40,10 +40,10 @@
 <section id="statistics" align="center">
 <h1  align="center">Main Projects</h1>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-movie-api)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=buytickets-system)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-movie-api&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=buytickets-system&theme=dark)
 </section>
 
 
