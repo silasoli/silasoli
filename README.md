@@ -12,19 +12,18 @@
   <p align="justify">
    Hello! My name is Silas, I'm 22 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
-In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
+  In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
-My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
-
+  My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?  
   </p>
 </section>
 <h1  align="center">Principais tecnologias</h1>
-<p float="left">
-  <img src="assets/img/node.icon.png" width="100" height="70"/>
-  <img src="assets/img/nestjs-ar21.svg" width="300"/>
-  <img src="assets/img/mongo-icon.png" width="100"/>
-  <img src="assets/img/postgres.png" width="100"/>
-</p>
+
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <!-- <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
