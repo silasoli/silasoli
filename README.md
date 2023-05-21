@@ -19,52 +19,12 @@ My goal is to become a highly skilled backend developer and contribute to challe
   </p>
 </section>
 <h1  align="center">Principais tecnologias</h1>
-<!-- <p float="left">
-  <img src="assets/img/node2.icon.png" alt="">
-  <img src="assets/img/nestjs-ar21.svg" alt="">
-  <img src="assets/img/mongo-icon.png" alt="">
-  <img src="assets/img/postgree.png" alt="">
-</p> -->
-<!-- <section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
-        <div class="container">
-            <div>
-                <div>
-                    <img  width: 70; height: 40; id="node" src="assets/img/node.icon.png" alt="">
-                </div>
-                <div>
-                    <img id="nest" src="assets/img/nestjs-ar21.svg" alt="">
-                </div>
-                <div>
-                    <img src="assets/img/mongo-icon.png" alt="">
-                </div>
-                <div>
-                    <img id="post" src="assets/img/postgree.png" alt="">
-                </div>
-            </div>
-        </div>
-</section> -->
-
 <p float="left">
- <img src="assets/img/node.icon.png" width="100" height="70"/>
- <img src="assets/img/nestjs-ar21.svg" width="100"/>
+  <img src="assets/img/node.icon.png" width="100" height="70"/>
+  <img src="assets/img/nestjs-ar21.svg" width="300"/>
   <img src="assets/img/mongo-icon.png" width="100"/>
-   <img src="assets/img/postgres.png" width="100"/>
+  <img src="assets/img/postgres.png" width="100"/>
 </p>
-
-<!-- <p float="left">
-     <div style="flex:1;padding-right:10px;">
-          <img src="assets/img/node.icon.png" width="100" height="70"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/nestjs-ar21.svg" width="100"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/mongo-icon.png" width="100"/>
-     </div>
-       <div style="flex:1;padding-left:10px;">
-          <img src="assets/img/postgres.png" width="100"/>
-     </div>
-</p> -->
 
 <!-- <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
