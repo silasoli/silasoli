@@ -19,12 +19,12 @@ My goal is to become a highly skilled backend developer and contribute to challe
   </p>
 </section>
 <h1  align="center">Principais tecnologias</h1>
-<p float="left">
+<!-- <p float="left">
   <img src="assets/img/node2.icon.png" alt="">
   <img src="assets/img/nestjs-ar21.svg" alt="">
   <img src="assets/img/mongo-icon.png" alt="">
   <img src="assets/img/postgree.png" alt="">
-</p>
+</p> -->
 <!-- <section id="stack-icons" class="stack-box" style="display: flex; justify-content: center;">
         <div class="container">
             <div>
@@ -43,6 +43,20 @@ My goal is to become a highly skilled backend developer and contribute to challe
             </div>
         </div>
 </section> -->
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="assets/img/node.icon.png" width="300" height="70"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="assets/img/nestjs-ar21.svg" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="assets/img/mongo-icon.png" width="300"/>
+     </div>
+       <div style="flex:1;padding-left:10px;">
+          <img src="assets/img/postgres.png" width="300"/>
+     </div>
+</div>
 
 <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
