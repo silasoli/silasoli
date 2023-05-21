@@ -43,7 +43,15 @@ My goal is to become a highly skilled backend developer and contribute to challe
             </div>
         </div>
 </section> -->
+
 <p float="left">
+ <img src="assets/img/node.icon.png" width="100" height="70"/>
+ <img src="assets/img/nestjs-ar21.svg" width="100"/>
+  <img src="assets/img/mongo-icon.png" width="100"/>
+   <img src="assets/img/postgres.png" width="100"/>
+</p>
+
+<!-- <p float="left">
      <div style="flex:1;padding-right:10px;">
           <img src="assets/img/node.icon.png" width="100" height="70"/>
      </div>
@@ -56,11 +64,11 @@ My goal is to become a highly skilled backend developer and contribute to challe
        <div style="flex:1;padding-left:10px;">
           <img src="assets/img/postgres.png" width="100"/>
      </div>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/img/underconstruction.png" alt="Descrição da imagem">
-</p>
+</p> -->
 
 </body>
 </html>
