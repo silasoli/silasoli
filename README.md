@@ -34,7 +34,7 @@
 <h1  align="center">Statistics</h1>
 
 ![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true)
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_height=600)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_width=500)
 </section>
 
 
