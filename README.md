@@ -30,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 </section>
 
-<section id="statistics">
+<section id="statistics" align="center>
 <h1  align="center">Statistics</h1>
 
 ![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true)
