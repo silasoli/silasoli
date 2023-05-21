@@ -33,11 +33,11 @@
 <section id="statistics" align="center">
 <h1  align="center">Statistics</h1>
 
-![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&show_icons=true&card_width=800)
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark&card_width=800)
+![card](https://github-readme-stats.vercel.app/api?username=silasoli&theme=dark&show_icons=true&card_width=800)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&hide=html&layout=compact&theme=dark&card_width=800)
 </section>
 
-<section id="statistics" align="center">
+<section id="projects" align="center">
 <h1  align="center">Main Projects</h1>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api&theme=dark)
@@ -45,6 +45,14 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=buytickets-system&theme=dark)
 </section>
+
+<section id="contacts" align="center">
+<h1  align="center">Contacts</h1>
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+</section>
+
 
 
 </body>
