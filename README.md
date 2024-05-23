@@ -10,7 +10,7 @@
 <section id="aboutme">
 <h1 align="center">About Me</h1>
   <p align="justify">
-   Hello! My name is Silas, I'm 22 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
+   Hello! My name is Silas, I'm 23 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
   In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
@@ -40,10 +40,16 @@
 <section id="projects" align="center">
 <h1  align="center">Main Projects</h1>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=enadex-api-v2&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=my-favorite-vids-api&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-movie-api&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=simple-crud-nestjs&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-mailer&theme=dark)
+</section>
+
+<section id="spotify" align="center">
+<h1  align="center">Listening</h1>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313szg3dspz3r6fe4u7aybqxgh2a&count=10&width=500)
 </section>
 
 <section id="contacts" align="center">
