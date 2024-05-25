@@ -41,8 +41,8 @@ My goal is to become a highly skilled backend developer and contribute to challe
 ![card](https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&hide=html&layout=compact&theme=dark&card_width=500)<br>
 ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=userstatistics)
 ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toplanguages)
-![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toprepositories)
-![card](https://myreadme.vercel.app/api/embed/silasoli?panels=commitgraph)
+<!-- ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toprepositories) -->
+<!-- ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=commitgraph) -->
 
 
 </section>
