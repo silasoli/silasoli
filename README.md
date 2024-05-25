@@ -12,9 +12,10 @@
   <p align="justify">
    Hello! My name is Silas, I'm 23 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
-  In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
+In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
-  My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?  
+My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
+
   </p>
 </section>
 
@@ -28,13 +29,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
 </section>
 
 <section id="statistics" align="center">
 <h1  align="center">Statistics</h1>
 
-![card](https://github-readme-stats.vercel.app/api?username=silasoli&theme=dark&show_icons=true&card_width=800)
-![card](https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&hide=html&layout=compact&theme=dark&card_width=800)
+<!-- ![card](https://github-readme-stats.vercel.app/api?username=silasoli&theme=dark&show_icons=true&card_width=800) -->
+
+![Example](https://github-stats-alpha.vercel.app/api?username=silasoli&cc=000&tc=fff&ic=fff&bc=000)<br>
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&hide=html&layout=compact&theme=dark&card_width=500)<br>
+![card](https://myreadme.vercel.app/api/embed/silasoli?panels=userstatistics)
+![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toplanguages)
+![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toprepositories)
+![card](https://myreadme.vercel.app/api/embed/silasoli?panels=commitgraph)
+
+
 </section>
 
 <section id="projects" align="center">
@@ -44,12 +54,14 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=my-favorite-vids-api&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-mailer&theme=dark)
+
 </section>
 
 <section id="spotify" align="center">
 <h1  align="center">Listening</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313szg3dspz3r6fe4u7aybqxgh2a&count=10&width=500)
+
 </section>
 
 <section id="contacts" align="center">
