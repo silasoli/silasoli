@@ -10,7 +10,7 @@
 <section id="aboutme">
 <h1 align="center">About Me</h1>
   <p align="justify">
-   Hello! My name is Silas, I'm 23 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
+   Hello! My name is Silas, I'm 24 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
 
 In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
 
