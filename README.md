@@ -1,77 +1,85 @@
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <link rel="stylesheet" href="assets/styles/style.css">        
-</head>
-<body>
-<section id="banner">
-  <img src="assets/img/Irelia_crop.jpg" alt="Imagem 1">
-</section>
-<section id="aboutme">
-<h1 align="center">About Me</h1>
-  <p align="justify">
-   Hello! My name is Silas, I'm 24 years old, and I've been passionate about technology for as long as I can remember. I've been working in IT since 2016, and since 2019, I've been focused on software development.
+<p align="center">
+  <img src="assets/img/banner.png" alt="Silas Santos .dev" width="100%">
+</p>
 
-In 2019, I started my studies in systems analysis and development at SENAI-BA, and since then, I've been honing my technical skills. I consider resilience in bug fixing, flexibility, teamwork, organization and time management, ability to work under pressure, and leadership as my soft skills.
+<p align="center">
+  <b>Senior Back-End / Full Stack Developer</b> building payment systems, APIs and microservices with Node.js, NestJS, TypeScript and React.<br>
+  Brazil · Remote · Open to new opportunities
+</p>
 
-My goal is to become a highly skilled backend developer and contribute to challenging and innovative projects. If you're looking for a technology professional who is passionate about continuous learning and dedicated to teamwork, I would be an excellent choice. Shall we chat?
+---
 
-  </p>
-</section>
+### Tech Stack
 
-<section id="technologies">
-<h1  align="center">Main Technologies</h1>
+**Languages & Frameworks**<br>
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=00E600)
+![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=00E600)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=00E600)
+![NestJS](https://img.shields.io/badge/NestJS-121212?style=for-the-badge&logo=nestjs&logoColor=00E600)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=00E600)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+**Databases & ORMs**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=00E600)
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=00E600)
+![Redis](https://img.shields.io/badge/Redis-121212?style=for-the-badge&logo=redis&logoColor=00E600)
+![BigQuery](https://img.shields.io/badge/BigQuery-121212?style=for-the-badge&logo=googlebigquery&logoColor=00E600)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-121212?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-121212?style=for-the-badge&logo=prisma&logoColor=00E600)
+![TypeORM](https://img.shields.io/badge/TypeORM-121212?style=for-the-badge&logo=typeorm&logoColor=00E600)
 
-</section>
+**Architecture & Messaging**<br>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-121212?style=for-the-badge&logo=rabbitmq&logoColor=00E600)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_/_Swagger-121212?style=for-the-badge&logo=swagger&logoColor=00E600)<br>
+Microservices · Clean Architecture · CQRS · BFF · REST · WebSockets · Serverless
 
-<section id="statistics" align="center">
-<h1  align="center">Statistics</h1>
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-Lambda_·_API_Gateway_·_S3_·_RDS_·_DynamoDB-121212?style=for-the-badge&labelColor=00E600)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-GKE-121212?style=for-the-badge&logo=googlecloud&logoColor=00E600)
+![Docker](https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=00E600)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=00E600)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-121212?style=for-the-badge&logo=githubactions&logoColor=00E600)
+![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=00E600)
 
-<!-- ![card](https://github-readme-stats.vercel.app/api?username=silasoli&theme=dark&show_icons=true&card_width=800) -->
+**Testing**<br>
+![Jest](https://img.shields.io/badge/Jest-121212?style=for-the-badge&logo=jest&logoColor=00E600)
+![Supertest](https://img.shields.io/badge/Supertest-121212?style=for-the-badge)
 
-![Example](https://github-stats-alpha.vercel.app/api?username=silasoli&cc=000&tc=fff&ic=fff&bc=000)<br>
-![card](https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&hide=html&layout=compact&theme=dark&card_width=500)<br>
-![card](https://myreadme.vercel.app/api/embed/silasoli?panels=userstatistics)
-![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toplanguages)
-<!-- ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=toprepositories) -->
-<!-- ![card](https://myreadme.vercel.app/api/embed/silasoli?panels=commitgraph) -->
+---
 
+### Experience Highlights
 
-</section>
+Building back-end systems professionally since 2021.
 
-<section id="projects" align="center">
-<h1  align="center">Main Projects</h1>
+- **Payments** – Multi-tenant payments platform (Pix, withdrawals, deposits, cards), with Pix settlement providers (SPB/DICT), MED flows, webhooks and asynchronous event processing. Helped expand the platform to Mexico (SPEI).
+- **Architecture** – Monolith-to-microservices migrations, CQRS to speed up listings and dashboards, serverless microservices on AWS and BFFs with NestJS and Clean Architecture.
+- **Integrations** – Integrations with financial institutions (Fiserv, FIS, Matera) and payment gateways (Asaas, Pagar.me, Iugu), focused on availability and data consistency.
+- **Production** – Front line on production incidents (ingestion bottlenecks, connection deadlocks, DLQ reprocessing) and post-incident action plans.
+- **Data** – Processing of large volumes of files and data, and a database migration from RethinkDB to PostgreSQL.
+- **Leadership** – Tech lead for small teams: sprints, estimates, code review and mentoring junior developers.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=enadex-api-v2&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=my-favorite-vids-api&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=easy-budget-api&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silasoli&repo=nestjs-mailer&theme=dark)
+---
 
-</section>
+### Featured Projects
 
-<section id="spotify" align="center">
-<h1  align="center">Listening</h1>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [users-import-devops-k8s](https://github.com/silasoli/users-import-devops-k8s) | Users API with asynchronous imports via RabbitMQ, Redis cache and idempotency, Kubernetes deployment, Prometheus/Grafana observability and k6 stress tests | NestJS · RabbitMQ · MongoDB · Redis · Kubernetes · GitHub Actions |
+| [opencommerce-api](https://github.com/silasoli/opencommerce-api) | E-commerce API with orders, products and integrations with Asaas (payments), Nuvemshop, Melhor Envio and ViaCEP | NestJS · PostgreSQL · TypeORM · Docker · GitHub Actions |
+| [your-lib-api](https://github.com/silasoli/your-lib-api) | Personal library manager: books, reading records, loans, waitlists and reports | NestJS · MongoDB · Docker · GitHub Actions |
+| [easy-budget-api](https://github.com/silasoli/easy-budget-api) | MVP that standardizes budget creation for the construction industry | NestJS · MongoDB · JWT · Swagger |
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313szg3dspz3r6fe4u7aybqxgh2a&count=10&width=500)
+---
 
-</section>
+### GitHub Stats
 
-<section id="contacts" align="center">
-<h1  align="center">Contacts</h1>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silasoli&show_icons=true&hide_border=true&bg_color=121212&title_color=00E600&icon_color=00E600&text_color=FFFFFF" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasoli&layout=compact&hide=html&hide_border=true&bg_color=121212&title_color=00E600&text_color=FFFFFF" alt="Top languages">
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/silasoli.ts/)](https://www.instagram.com/silasoli.ts/)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silasoli/)](https://www.linkedin.com/in/silasoli/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:silasoliv39@gmail.com)](mailto:silasoliv39@gmail.com)&nbsp;
-[![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:silas_rodrigues2@hotmail.com)](mailto:silas_rodrigues2@hotmail.com)&nbsp;
+---
 
-</section>
-</body>
-</html>
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fsilasoli-121212?style=for-the-badge&labelColor=00E600)](https://www.linkedin.com/in/silasoli/)
+[![Email](https://img.shields.io/badge/silasoliv39@gmail.com-121212?style=for-the-badge&logo=gmail&logoColor=00E600)](mailto:silasoliv39@gmail.com)
