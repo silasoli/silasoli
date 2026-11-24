@@ -65,7 +65,7 @@ Building back-end systems professionally since 2021.
 | --- | --- | --- |
 | [users-import-devops-k8s](https://github.com/silasoli/users-import-devops-k8s) | Users API with asynchronous imports via RabbitMQ, Redis cache and idempotency, Kubernetes deployment, Prometheus/Grafana observability and k6 stress tests | NestJS · RabbitMQ · MongoDB · Redis · Kubernetes · GitHub Actions |
 | [opencommerce-api](https://github.com/silasoli/opencommerce-api) | E-commerce API with orders, products and integrations with Asaas (payments), Nuvemshop, Melhor Envio and ViaCEP | NestJS · PostgreSQL · TypeORM · Docker · GitHub Actions |
-| [your-lib-api](https://github.com/silasoli/your-lib-api) | Personal library manager: books, reading records, loans, waitlists and reports | NestJS · MongoDB · Docker · GitHub Actions |
+| [your-lib-api](https://github.com/silasoli/your-lib-api) | Personal library manager: books, loans, waitlists with email notifications | NestJS · MongoDB · Docker · GitHub Actions |
 | [easy-budget-api](https://github.com/silasoli/easy-budget-api) | MVP that standardizes budget creation for the construction industry | NestJS · MongoDB · JWT · Swagger |
 
 ---
