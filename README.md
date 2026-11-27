@@ -17,6 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=00E600)
 ![NestJS](https://img.shields.io/badge/NestJS-121212?style=for-the-badge&logo=nestjs&logoColor=00E600)
 ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=00E600)
+![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=00E600)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-121212?style=for-the-badge&logo=springboot&logoColor=00E600)
 
 **Databases & ORMs**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=00E600)
@@ -44,6 +46,11 @@ Microservices · Clean Architecture · CQRS · BFF · REST · WebSockets · Serv
 ![Jest](https://img.shields.io/badge/Jest-121212?style=for-the-badge&logo=jest&logoColor=00E600)
 ![Supertest](https://img.shields.io/badge/Supertest-121212?style=for-the-badge)
 
+**Observability & Load Testing**<br>
+![Prometheus](https://img.shields.io/badge/Prometheus-121212?style=for-the-badge&logo=prometheus&logoColor=00E600)
+![Grafana](https://img.shields.io/badge/Grafana-121212?style=for-the-badge&logo=grafana&logoColor=00E600)
+![k6](https://img.shields.io/badge/k6-121212?style=for-the-badge&logo=k6&logoColor=00E600)
+
 ---
 
 ### Experience Highlights
@@ -53,6 +60,7 @@ Building back-end systems professionally since 2021.
 - **Payments** – Multi-tenant payments platform (Pix, withdrawals, deposits, cards), with Pix settlement providers (SPB/DICT), MED flows, webhooks and asynchronous event processing. Helped expand the platform to Mexico (SPEI).
 - **Architecture** – Monolith-to-microservices migrations, CQRS to speed up listings and dashboards, serverless microservices on AWS and BFFs with NestJS and Clean Architecture.
 - **Integrations** – Integrations with financial institutions (Fiserv, FIS, Matera) and payment gateways (Asaas, Pagar.me, Iugu), focused on availability and data consistency.
+- **Java** – Mobile app API built with Java 21 and Spring Boot 3 (Spring Security with JWT, JPA, PostgreSQL and Flyway), with push notifications, SMS and email, and PDF certificates.
 - **Production** – Front line on production incidents (ingestion bottlenecks, connection deadlocks, DLQ reprocessing) and post-incident action plans.
 - **Data** – Processing of large volumes of files and data, and a database migration from RethinkDB to PostgreSQL.
 - **Leadership** – Tech lead for small teams: sprints, estimates, code review and mentoring junior developers.
